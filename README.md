@@ -1,2 +1,6 @@
-# dbcli
-db.v1 Frozen repository for upper.io/db version 1
+# SQLite3 adapter for upper.io/db
+
+Please read the full docs, acknowledgements and examples at
+[https://upper.io/db/sqlite][1]
+
+[1]: https://upper.io/db/sqlite
